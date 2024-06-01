@@ -2,10 +2,11 @@
   "name": "ibm-carbon-design-system-theme",
   "displayName": "IBM Carbon Design System Theme",
   "description": "Color theme based on IBM Carbon Design System",
-  "version": "0.1.0+2461",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.89.0"
   },
+  "publisher": "achkasov",
   "repository": {"url": "https://github.com/achkasov/IBM-Carbon-Design-System-VSCode-Theme"},
   "categories": [
     "Themes"

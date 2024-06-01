@@ -13,9 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Light theme: Gray 10
 
 
-## [0.1.0+2461] - 2024-06-01
+## [0.1.1+2461] - 2024-06-01
 ### Added
 - Dark theme: Gray 90
+
+### Fixed
+- Incorrect fold colour in Gray 100
 
 
 ## [0.1.0+245U] - 2024-05-30
