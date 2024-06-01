@@ -3,8 +3,6 @@
 UI color themes and syntax highlighting based on the [IBM Carbon Design System](https://carbondesignsystem.com/).
 
 
-
-
 ## Details
 
 The package includes syntax highlighting and UI themes.
@@ -16,6 +14,7 @@ The package includes syntax highlighting and UI themes.
 * Dark:
   - Gray 90
   - Gray 100  
+
 
 ## Author and Licence
 
