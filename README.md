@@ -1,4 +1,4 @@
-# IBM Carbon Gray 100
+# IBM Carbon Design System themes
 
 UI color themes and syntax highlighting based on the [IBM Carbon Design System](https://carbondesignsystem.com/).
 
