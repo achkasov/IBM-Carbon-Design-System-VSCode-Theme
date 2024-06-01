@@ -1,10 +1,10 @@
 # Licence
-<img alt="CC BY logo" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width=88px />
   
 This code is distributed under the Creative Common Attribution licence 4.0.  
 
 Author: Dmitry Achkasov <achkasov.dmitry@live.com>, 2024
 
+<img alt="CC BY logo" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width=88px />
 
 ## You are free to:
 
