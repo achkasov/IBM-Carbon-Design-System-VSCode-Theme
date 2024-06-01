@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.89.0"
   },
+  "repository": {"url": "https://github.com/achkasov/IBM-Carbon-Design-System-VSCode-Theme"},
   "categories": [
     "Themes"
   ],
