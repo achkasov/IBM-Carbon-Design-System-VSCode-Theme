@@ -1,4 +1,4 @@
 .vscodeignore
 vsc-extension-quickstart.md
 .vscode/launch.json
-release/
+releases/
