@@ -1,0 +1,26 @@
+{
+  "name": "ibm-carbon-design-system-theme",
+  "displayName": "IBM Carbon Design System Theme",
+  "description": "Color theme based on IBM Carbon Design System",
+  "version": "0.1.0+2461",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IBM Carbon Gray 90",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IBM-Carbon-Gray-90-color-theme.json"
+      },
+      {
+        "label": "IBM Carbon Gray 100",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IBM-Carbon-Gray-100-color-theme.json"
+      }
+    ]
+  }
+}
