@@ -13,6 +13,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Light theme: Gray 10
 
 
+## [0.2.1]
+### Fixed
+- Complete redisign of the Gray 90 and Gray 100 themes to comply with IBM the design guidelines
+
+
+## [0.1.2]
+### Fixed
+- Breadcrumbs style is now compliant with the IBM Carbon guidelines
+
+
 ## [0.1.1+2461] - 2024-06-01
 ### Added
 - Dark theme: Gray 90
