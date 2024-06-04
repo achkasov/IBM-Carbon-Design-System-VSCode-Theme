@@ -185,9 +185,9 @@
 
 		//Editor
 		"editorGutter.background": "#262626",
-		"editorGutter.addedBackground": "#42be65",
+		"editorGutter.addedBackground": "#24a148",
 		"editorGutter.commentRangeForeground": "#6f6f6f",
-		"editorGutter.deletedBackground": "#ffb3b8",
+		"editorGutter.deletedBackground": "#da1e28",
 		"editorGutter.foldingControlForeground": "#6f6f6f",
 		"editorGutter.modifiedBackground": "#f1c21b",
 
@@ -334,15 +334,15 @@
 
 
 		//Terminal and Panel
-		"panel.background": "#393939",
-		"panel.border": "#52525200",
+		"panel.background": "#262626",
+		"panel.border": "#393939",
 		"panelSection.border": "#393939",
 		"panelTitle.activeBorder": "#4589ff",
 		"panelTitle.activeForeground": "#f4f4f4",
 		"panelTitle.inactiveForeground": "#c6c6c6",
 		"badge.background": "#da1e28",
 		"badge.foreground": "#ffffff",
-		"terminal.ansiBlack": "#393939",
+		"terminal.ansiBlack": "#262626",
 		"terminal.ansiBlue": "#4589ff",
 		"terminal.ansiBrightBlack": "#525252",
 		"terminal.ansiBrightBlue": "#d0e2ff",
@@ -359,7 +359,7 @@
 		"terminal.ansiWhite": "#c6c6c6",
 		"terminal.ansiYellow": "#ff832b",
 		"terminal.border": "#393939",
-		"terminal.background": "#393939",
+		"terminal.background": "#262626",
 		"terminal.foreground": "#c6c6c6",
 		"terminal.inactiveSelectionBackground": "#3a3d41",
 		"terminal.selectionBackground": "#8d8d8d3d",

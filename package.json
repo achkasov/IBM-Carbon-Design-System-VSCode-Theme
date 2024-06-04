@@ -2,7 +2,7 @@
   "name": "ibm-carbon-design-system-theme",
   "displayName": "IBM Carbon Design System Theme",
   "description": "Color theme based on IBM Carbon Design System",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -15,6 +15,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "IBM Carbon White",
+        "uiTheme": "vs",
+        "path": "./themes/IBM-White-theme.json"
+      },      
       {
         "label": "IBM Carbon Gray 90",
         "uiTheme": "vs-dark",

@@ -13,6 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Light theme: Gray 10
 
 
+## [0.2.2]
+### Fixed
+- Terminal background color change in Gray 90 theme
+- General gutter colour fixes
+- Added White theme
+
 ## [0.2.1]
 ### Fixed
 - Complete redisign of the Gray 90 and Gray 100 themes to comply with IBM the design guidelines
