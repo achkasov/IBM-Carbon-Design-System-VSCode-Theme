@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Make sure syntax highlighting works well for most languages
 
 
+## [1.0.1+2465] - 2024-06-05
+### Fixed
+- White and Gray 10 themes files not resolving
+
+
 
 ## [1.0.0+2465] - 2024-06-05
 ### Added
