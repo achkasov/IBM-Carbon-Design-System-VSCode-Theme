@@ -2,7 +2,7 @@
   "name": "ibm-carbon-design-system-theme",
   "displayName": "IBM Carbon Design System Theme",
   "description": "Color theme based on IBM Carbon Design System",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.89.0"
   },
