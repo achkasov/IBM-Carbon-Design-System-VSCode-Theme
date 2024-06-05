@@ -9,38 +9,47 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Make sure all styles are consistent with IBM Carbon style
 - Make sure syntax highlighting works well for most languages
-- Light theme: White
-- Light theme: Gray 10
 
 
-## [0.2.2]
+
+## [1.0.0+2465] - 2024-06-05
+### Added
+- White theme
+- Gray 10 theme
+- Readme screenshots
+
 ### Fixed
 - Terminal background color change in Gray 90 theme
 - General gutter colour fixes
-- Added White theme
+- Badge color changed to neutral blue
 
-## [0.2.1]
+
+
+## [0.2.1+2464] - 2024-06-04
 ### Fixed
 - Complete redisign of the Gray 90 and Gray 100 themes to comply with IBM the design guidelines
 
 
-## [0.1.2]
+
+## [0.1.2+2463] - 2024-06-03
 ### Fixed
 - Breadcrumbs style is now compliant with the IBM Carbon guidelines
 
 
+
 ## [0.1.1+2461] - 2024-06-01
 ### Added
-- Dark theme: Gray 90
+- Gray 90 theme
 
 ### Fixed
 - Incorrect fold colour in Gray 100
 
 
+
 ## [0.1.0+245U] - 2024-05-30
 ### Added
 - Initial release
-- Dark theme: Gray 100 
+- Gray 100 theme
 - Language support: HTML
 - Language support: JavaScript
 - Language support: CSS
