@@ -15,6 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.1.0+246Q] - 2024-06-26
+### Added
+- Four themes with alternative code highlighting, to reduce the number of colours.
+
+
+
+
 ## [1.0.2+2465] - 2024-06-05
 ### Fixed
 - White and Gray 10 themes files not resolving pt2

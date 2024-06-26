@@ -2,7 +2,7 @@
   "name": "ibm-carbon-design-system-theme",
   "displayName": "IBM Carbon Design System Theme",
   "description": "Color theme based on IBM Carbon Design System",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -19,12 +19,12 @@
         "label": "IBM Carbon White",
         "uiTheme": "vs",
         "path": "./themes/IBM-Carbon-White-theme.json"
-      },      
+      },
       {
         "label": "IBM Carbon Gray 10",
         "uiTheme": "vs",
         "path": "./themes/IBM-Carbon-Gray-10-color-theme.json"
-      },      
+      },
       {
         "label": "IBM Carbon Gray 90",
         "uiTheme": "vs-dark",
@@ -34,6 +34,27 @@
         "label": "IBM Carbon Gray 100",
         "uiTheme": "vs-dark",
         "path": "./themes/IBM-Carbon-Gray-100-color-theme.json"
+      },
+      
+      {
+        "label": "IBM Carbon White (alternative code highlighting)",
+        "uiTheme": "vs",
+        "path": "./themes/IBM-Carbon-White-theme-B.json"
+      },
+      {
+        "label": "IBM Carbon Gray 10 (alternative code highlighting)",
+        "uiTheme": "vs",
+        "path": "./themes/IBM-Carbon-Gray-10-color-theme-B.json"
+      },
+      {
+        "label": "IBM Carbon Gray 90 (alternative code highlighting)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IBM-Carbon-Gray-90-color-theme-B.json"
+      },
+      {
+        "label": "IBM Carbon Gray 100 (alternative code highlighting)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IBM-Carbon-Gray-100-color-theme-B.json"
       }
     ]
   }

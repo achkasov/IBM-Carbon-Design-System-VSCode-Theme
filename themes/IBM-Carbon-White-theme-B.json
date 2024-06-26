@@ -1,5 +1,5 @@
 {
-    "name": "IBM Carbon White",
+    "name": "IBM Carbon White (alternative code highlighting)",
     "colors": {
         //UI Shell
         "titleBar.activeBackground": "#ffffff",
@@ -539,13 +539,14 @@
         {
             "scope": "header",
             "settings": {
-                "foreground": "#6929c4"
+                "foreground": "#6929c4" 
             }
         },
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#161616"
+                "foreground": "#005d5d", //Ok
+                "fontStyle": "italic"
             }
         },
         {
@@ -574,7 +575,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#0043ce"
+                "foreground": "#6929c4"
             }
         },
         {
@@ -583,7 +584,7 @@
                 "entity.name.tag.less"
             ],
             "settings": {
-                "foreground": "#0043ce"
+                "foreground": "#6929c4"
             }
         },
         {
@@ -630,7 +631,7 @@
         {
             "scope": "markup.heading",
             "settings": {
-                "foreground": "#0043ce",
+                "foreground": "#6929c4",
                 "fontStyle": "bold"
             }
         },
@@ -694,7 +695,7 @@
                 "entity.name.function.preprocessor"
             ],
             "settings": {
-                "foreground": "#007d79"
+                "foreground": "#6929c4"
             }
         },
         {
@@ -776,7 +777,7 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#161616"
+                "foreground": "#6929c4"
             }
         },
         {
@@ -814,8 +815,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#6929c4",
-                "fontStyle": ""
+                "foreground": "#161616",
             }
         },
         {
@@ -879,16 +879,9 @@
             }
         },
         {
-            "scope": "comment",
-            "settings": {
-                "foreground": "#161616",
-                "fontStyle": "italic"
-            }
-        },
-        {
             "scope": "punctuation.definition.comment",
             "settings": {
-                "foreground": "#161616",
+                "foreground": "#6f6f6f",
                 "fontStyle": "italic"
             }
         },
@@ -931,19 +924,20 @@
         {
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#161616"
+                "foreground": "#1192e8"  // Ok
             }
         },
         {
             "scope": "entity.name.function",
+            
             "settings": {
-                "foreground": "#007d79"
+                "foreground": "#161616" // Ok
             }
         },
         {
             "scope": "support.function",
             "settings": {
-                "foreground": "#007d79"
+                "foreground": "#161616"
             }
         },
         {
@@ -959,23 +953,15 @@
             }
         },
         {
-            "scope": "comment",
-            "settings": {
-                "foreground": "#161616",
-                "fontStyle": "italic"
-            }
-        },
-        {
             "scope": "entity.name.type",
             "settings": {
                 "foreground": "#161616",
-                "fontStyle": "italic"
+                // "fontStyle": "italic"
             }
         },
         {
             "scope": [
                 "constant.language", 
-                "punctuation.section.embedded", 
                 "enumMember", 
                 "constant", 
                 "punctuation", 
@@ -1004,7 +990,7 @@
                 "punctuation.definition.string.end.json.comments"
             ],
             "settings": {
-                "foreground": "#9f1853"
+                "foreground": "#1192e8"
             }
         },
         {
@@ -1025,40 +1011,47 @@
                 "storage", 
                 "storage.modifier", 
                 "constant.language.json.comments", 
-                "meta.attribute.rust", 
-                "punctuation.definition.attribute.rust", 
-                "punctuation.brackets.attribute.rust"
+                
+                
+                
+                "entity.name.function.preprocessor"
             ],
             "settings": {
-                "foreground": "#6929c4"
+                "foreground": "#6929c4" // Ok
             }
         },
         {
             "scope": [
+                "meta.attribute.rust",                     
+                "punctuation.brackets.attribute.rust",
+                "punctuation.definition.attribute.rust", 
                 "support.type.property-name", 
                 "support.type.property-name.css", 
-                "entity.name.function.preprocessor", 
                 "class", 
                 "support.type.property-name.json", 
                 "punctuation.support.type.property-name", 
-                "entity.other.attribute-name"
+                "entity.other.attribute-name",
+                "keyword.operator.borrow.and.rust",
+                "keyword.operator", 
+                "meta.function.definition.rust",
+
             ],
             "settings": {
-                "foreground": "#007d79"
+                "foreground": "#161616",
+                "fontStyle": "",
             }
         },
         {
             "scope": [
                 "entity.name.tag.css", 
                 "operator", 
-                "keyword.operator", 
-                "keyword.operator.borrow.and.rust", 
+                
                 "punctuation.separator.dictionary.key-value.json", 
                 "punctuation.definition.tag", 
                 "entity.name.tag"
             ],
             "settings": {
-                "foreground": "#0043ce"
+                "foreground": "#6929c4" // Ok
             }
         },
         {
@@ -1104,12 +1097,12 @@
             "settings": {
                 "foreground": "#a56eff"
             }
-        }
+        }            
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "*.mutable": {"underline": false},
-        "*.consuming": { "underline": true } ,
+        "*.mutable": { "underline": false},
+        "*.consuming": { "foreground": "#9f1853", "underline": false } ,
         "*.unsafe": "#f1c21b"
     }
 }
